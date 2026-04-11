@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Rawda (Copy)
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# SWE363-Rawda
+>>>>>>> 384ddc4c91c37a3407cfd1606f0367319d98ad0d
